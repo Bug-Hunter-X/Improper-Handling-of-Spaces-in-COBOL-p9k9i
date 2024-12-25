@@ -1,0 +1,1 @@
+This example demonstrates a common error in COBOL related to space handling. The original code incorrectly assumes that an uninitialized field is all spaces. The solution demonstrates the correct approach to check for missing data, which involves explicitly checking if the field is equal to a specific value or checking its length before performing any processing.
